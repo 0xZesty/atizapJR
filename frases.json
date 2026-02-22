@@ -40,7 +40,12 @@
         "Mas antes de matá-lo Sr.Bond, eu preciso lhe mostrar {p1}.",
         "A nova pickup S10, com força e espaço para levar {p1} a onde você quiser.",
         "O acampamento da turma foi completamente arruínado por {p1}.",
-        "Quando o Faraó se mostrou irredutível, Moisès rogou uma praga de {p1}."
+        "Quando o Faraó se mostrou irredutível, Moisès rogou uma praga de {p1}.",
+        "Por algum motivo crianças gostam de {p1}.",
+        "Pessoas negras gostam de {p1}",
+        "Pode nem cheirar {p1} mais, canalhas!",
+        "to todo monhado de {p1} haha tlgd"
+
     ],
     
     "complementos": [
@@ -201,3 +206,4 @@
      ]
 
 }
+
