@@ -84,7 +84,8 @@
         "Se {p1} fosse crime, eu estaria preso perpétuo",
         "O novo sabor de Toddynho: {p1} com gotas de arrependimento",
         "Minha autoestima tá tão baixa que até {p1} me olha torto",
-        "to suado, to fedendo, to coberto de {p1} e to amando"
+        "to suado, to fedendo, to coberto de {p1} e to amando",
+        "{p1} é meu vício"
     ],
     
     "complementos": [
@@ -290,5 +291,6 @@
      ]
 
 }
+
 
 
