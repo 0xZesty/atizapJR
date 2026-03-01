@@ -76,7 +76,7 @@
         "Meu maior talento é transformar {p1} em {p2} em menos de 5 minutos",
         "A mãe de todos os buracos negros se chama {p1}",
         "No carnaval de 2026 o enredo da escola vai ser: {p1} – A saga continua",
-        "Eu não escolhi o {p1}... o {p1} me escolheu",
+        "Eu não escolhi o {p1}... o {p2} me escolheu",
         "Última ceia alternativa: pão, vinho e {p1} à vontade",
         "O que o {p1} faz quando fica sozinho em casa? {p2}",
         "Minha carta pro Papai Noel: quero paz mundial e bastante {p1}",
@@ -291,6 +291,7 @@
      ]
 
 }
+
 
 
 
