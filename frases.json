@@ -51,7 +51,6 @@
         "Quer saber como eu emagreci 40kg? Simples: {p1}",
         "Aula de história hoje: Como os romanos inventaram {p1}",
         "Meu maior medo é acordar amanhã e continuar sendo {p1}",
-        "O que o {p1} disse pro {p2}? Nada, porque {p1} não fala com pobre",
         "Receita de família: 1kg de amor, 500g de ódio e uma pitada de {p1}",
         "No BBB 30 o prêmio vai ser {p1} e um ano de terapia grátis",
         "Deus cria Adão e Eva... e logo em seguida inventa {p1}",
@@ -61,7 +60,7 @@
         "O que tem dentro da caixa de Pandora? {p1} embrulhado pra presente",
         "Se o {p1} fosse religião, eu seria o Papa",
         "Filme de terror nacional: A Entidade {p1}",
-        "Minha dieta atual: café da manhã {p1}, almoço {p1}, jantar {p1} e arrependimento",
+        "Minha dieta atual: café da manhã {p1}, almoço {p2}, jantar {p3} e arrependimento",
         "O Brasil só vai pra frente quando aprender a lidar com {p1}",
         "Quer impressionar na primeira noite? Chega com {p1} na mão",
         "Aviso de conteúdo sensível: este vídeo contém cenas fortes de {p1}",
@@ -291,6 +290,7 @@
      ]
 
 }
+
 
 
 
